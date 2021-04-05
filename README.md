@@ -1,4 +1,7 @@
 # Backuper
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Download your backups automatically.
 
@@ -69,3 +72,23 @@ You can open a **Issue**, when you have a problem or an idea. Please describe al
 
 When you want to solve your Issue yourself, fork the repository and make the change in your repository.
 When you checked the functionality of your change you can create a pull request to the `master` or `development` branch of this repository.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://adridoesthings.com"><img src="https://avatars.githubusercontent.com/u/45321107?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AdriDevelopsThings</b></sub></a><br /><a href="https://github.com/AdriDevelopsThings/backuper/commits?author=AdriDevelopsThings" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
